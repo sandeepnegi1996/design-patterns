@@ -9,6 +9,7 @@ public class MainTest {
          bankAccount=  b.createAccount("C");
         bankAccount.registerAccount();
 
+
          bankAccount=  b.createAccount("S");
         bankAccount.registerAccount();
     }
